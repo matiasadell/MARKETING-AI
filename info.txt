@@ -1,0 +1,27 @@
+• # ORDERNUMER: Identification of order placed
+• # QUANTITYORDERED: Number of items ordered
+• # PRICEEACH: Price of each item
+• # SALES: Total amount of sales
+• # ORDERDATE: Date in which order is placed
+• # STATUS: Status of the order
+• # QTR_ID: Quarter in which order is placed
+• # MONTH_ID: Month in which order is placed
+• # YEAR_ID : Year in which order is placed
+• # PRODUCTLINE: Product category
+
+• # ADDRESSLINE1: Address to be shipped
+• # ADDRESSLINE2: Address to be shipped
+• # CITY: City in which customer resides
+• # STATE: State in which customer resides
+• # POSTALCODE: Postal code in which customer resides
+• # COUNTRY: Country in which customer resides
+• # TERRITORY: Territory in which customer resides
+• # DEALSIZE: Size of the order
+• # CONTACTFIRST NAME: Contact person’s first name
+• # CONTACTLAST NAME: Contact person’s last name
+
+# Clúster 0 (más alto): este grupo representa a los clientes que compran artículos en una gran cantidad centrada en ~ 47, compran artículos en todos los rangos de precios inclinándose hacia artículos de alto precio de ~ 99. También corresponden a las ventas totales más altas alrededor de ~ 8296 y están activas durante todo el año. Son los mayores compradores de productos con un MSRP alto ~ 158.
+# Clúster 1: este grupo representa a los clientes que solo están activos durante las vacaciones. compran en menor cantidad ~ 35, pero tienden a comprar artículos de precio promedio alrededor de ~ 86. También corresponden a ventas totales más bajas alrededor de ~ 3673, tienden a comprar artículos con MSRP alrededor de 102.
+# Clúster 2 (más bajo): este grupo representa a los clientes que compran artículos en cantidades bajas ~ 30. Suelen comprar artículos de bajo precio ~ 68. Sus ventas ~ 2044 son más bajas que las de otros grupos y son extremadamente activos durante la temporada navideña. Compran productos con un MSRP bajo ~ 75.
+# Clúster 3: este grupo representa a los clientes que compran artículos en cantidades variables ~ 35, tienden a comprar artículos de alto precio ~ 96. Sus ventas son un poco mejores en promedio ~ 4435, compran productos con el segundo MSRP más alto de ~ 133.
+# Clúster 4: este grupo representa a los clientes que compran artículos en cantidad variable ~ 39, tienden a comprar artículos de precio promedio ~ 94. Sus ventas ~ 4280.
