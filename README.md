@@ -1,11 +1,11 @@
 # MARKETING | AI
 
-## Introducción
+### Introducción
 - Uno de los principales puntos débiles para los especialistas en marketing es conocer sus clientes e identificar sus necesidades. Al comprender al cliente, los especialistas en marketing pueden lanzar un campaña de marketing que se adapta a las necesidades específicas.
 
 - En este caso, he analizado los datos de los clientes de una empresa en Seattle, EE. UU. Consiguiendo crear una campaña de marketing publicitario dirigida, dividiendo a sus clientes en 5 grupos distintivos.
 
-## Dataset
+### Dataset
 - *ORDERNUMER:* Identification of order placed
 - *QUANTITYORDERED:* Number of items ordered
 - *PRICEEACH:* Price of each item
@@ -29,7 +29,7 @@
 - *CONTACTFIRST NAME:* Contact person's first name
 - *CONTACTLAST NAME:* Contact person's last name
 
-## Output
+### Output
 - **Clúster 0 (<span style="color:blue">Azul</span>) (Más Alto):** este grupo representa a los clientes que compran artículos en una gran cantidad centrada en ~ 47, compran artículos en todos los rangos de precios inclinándose hacia artículos de alto precio de ~ 99. También corresponden a las ventas totales más altas alrededor de ~ 8296 y están activas durante todo el año. Son los mayores compradores de productos con un MSRP (El Precio de Venta Sugerido por el Fabricante) alto ~ 158.
 
 - **Clúster 1 (<span style="color:purple">Purpura</span>):** este grupo representa a los clientes que solo están activos durante las vacaciones. compran en menor cantidad ~ 35, pero tienden a comprar artículos de precio promedio alrededor de ~ 86. También corresponden a ventas totales más bajas alrededor de ~ 3673, tienden a comprar artículos con MSRP alrededor de 102.
