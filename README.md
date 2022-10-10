@@ -1,9 +1,9 @@
 # MARKETING | AI
 
 ### Introducción
-- Uno de los principales puntos débiles para los especialistas en marketing es conocer sus clientes e identificar sus necesidades. Al comprender al cliente, los especialistas en marketing pueden lanzar un campaña de marketing que se adapta a las necesidades específicas.
+Uno de los principales puntos débiles para los especialistas en marketing es conocer sus clientes e identificar sus necesidades. Al comprender al cliente, los especialistas en marketing pueden lanzar un campaña de marketing que se adapta a las necesidades específicas.
 
-- En este caso, he analizado los datos de los clientes de una empresa en Seattle, EE. UU. Consiguiendo crear una campaña de marketing publicitario dirigida, dividiendo a sus clientes en 5 grupos distintivos.
+En este caso, he analizado los datos de los clientes de una empresa en Seattle, EE. UU. Consiguiendo crear una campaña de marketing publicitario dirigida, dividiendo a sus clientes en 5 grupos distintivos.
 
 ### Dataset
 - *ORDERNUMER:* Identification of order placed
