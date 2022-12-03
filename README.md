@@ -42,4 +42,3 @@ En este caso, he analizado los datos de los clientes de una empresa en Seattle, 
 
 ![](https://media-exp1.licdn.com/dms/image/C4D05AQHswW-q5g89yQ/feedshare-thumbnail_720_1280/0/1665355999164?e=1670637600&v=beta&t=MfcOHWePzTD1ls6wvRnhXnTatSKz3nnxRS-Tdf4teO4)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6994463198779203584" height="612" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
