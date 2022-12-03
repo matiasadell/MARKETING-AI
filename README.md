@@ -40,4 +40,4 @@ En este caso, he analizado los datos de los clientes de una empresa en Seattle, 
 
 - **Clúster 4 (<span style="color:yellow">Amarillo</span>):** este grupo representa a los clientes que compran artículos en cantidad variable ~ 39, tienden a comprar artículos de precio promedio ~ 94. Sus ventas ~ 4280.
 
-![](https://media-exp1.licdn.com/dms/image/C4D05AQHswW-q5g89yQ/feedshare-thumbnail_720_1280/0/1665355999164?e=1665968400&v=beta&t=z3W0bl3F7Rk8DA9OcMlVB3J0dRiJ9WFOkFwVlyYcpPY)
+![](https://media-exp1.licdn.com/dms/image/C4D05AQHswW-q5g89yQ/feedshare-thumbnail_720_1280/0/1665355999164?e=1670637600&v=beta&t=MfcOHWePzTD1ls6wvRnhXnTatSKz3nnxRS-Tdf4teO4)
